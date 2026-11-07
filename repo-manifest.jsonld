@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kivy/ncis/commit/44641bf9b53d057875a0621bb5a5bf727212455d",
       "git:hexsha": "44641bf9b53d057875a0621bb5a5bf727212455d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:31:34.853647+00:00"
     }
   ]
 }
